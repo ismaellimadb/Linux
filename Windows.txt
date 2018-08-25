@@ -1,0 +1,33 @@
+NO CMD
+
+Comando para abrir windowsupdate GUI:
+C:\Windows\System32\wuapp.exe
+
+Para se executar windowsupdate pelo cmd:
+
+Executar cmd com administrador (w x)e
+cscript WUA_SearchDownloadInstall.vbs
+
+NO POWERSHELL
+
+Para se executar o script:
+Install-Module PSWindowsUpdate
+
+Para se ver as atualizações a serem instaladas:
+Get-WindowsUpdate
+
+Para se instalar:
+Install-WindowsUpdate
+
+Para se ver se está habilitado executar scripts
+Get-ExecutionPolicy
+
+Para se Restringir ou tirar Restrição
+Set-ExecutionPolicy
+Restricted
+
+Unrestricted
+
+ou
+
+RemoteSigned -Scope CurrentUser -Confirm

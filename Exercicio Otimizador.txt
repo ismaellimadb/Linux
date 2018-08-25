@@ -1,0 +1,111 @@
+
+
+EXERCICIO GERAL OTIMIZADOR
+AVALIAÇÃO DOS MÉTODOS DE JUNÇÃO DAS TABELAS PELO OTIMIZADOR 
+Objetivo: Criar um cenário para avaliação dos métodos de acesso escolhido pelo otimizador em consultas de tabelas utilizando join
+
+	
+Passo1 –  Criar uma tablespace definitiva.
+	Passo3 –  Criar um usuário utilizando a tablespace
+                        definitiva, com no máximo 50MB da mesma
+                        de quota.
+	Passo4 –  Visualizar o usuário criado no Dicionário de
+                        Dados e a sua quota da Tablespace
+                        definitiva.
+	Passo5 –  Dar autorização de conexão ao BD para o
+                        usuário criado.
+	Passo6 –  Dar autorização de uso dos recursos para o
+                        usuário criado.
+	Passo7 –  Conectar no usuário criado e criar2 tabelas sem
+                        relacionar as mesmas inicialmente,
+                        prevendo um modelo de relacionamento
+                        posterior 1-N
+        Passo8 – Inserir 3 linhas na tabela principal e 2
+                       linhas na tabela dependente do modelo
+        Passo9 – Explanar para o otimizador uma consulta
+                        utilizando as duas Tabelas de maneira
+                        independente.
+	Passo10 – Avaliar o resultado do otimizador na Plan-
+                         Table e explicar o porquê do caminho
+                         escolhido.
+	Passo11 – Explanar para o otimizador uma consulta
+                        utilizando as duas Tabelas de maneira
+                        independente, porém utilizando um filtro
+	Passo12 – Avaliar o resultado do otimizador na Plan-
+                         Table e explicar o porquê do caminho
+                         escolhido.
+	
+
+	Passo13 – Explanar para o otimizador uma consulta
+                        utilizando as duas Tabelas igualando as
+                        chaves de relacionamento e utilizando um
+                        filtro
+	Passo14 – Avaliar o resultado do otimizador na Plan-
+                         Table e explicar o porquê do caminho
+                         escolhido.
+
+Passo15 – Explanar para o otimizador uma consulta
+                         Utilizando as duas Tabelas igualando as
+                         chaves de relacionamento e utilizando um
+                         filtro, sendo que deverá ser criado uma
+                         índice para o filtro utilizado.
+	Passo16 – Avaliar o resultado do otimizador na Plan-
+                         Table e explicar o porquê do caminho
+                         escolhido.
+Passo17 – Relacionar as duas tabelas através da
+                  criação da chave primaria e chave
+                  estrangeira
+	Passo18 – Explanar para o otimizador uma consulta
+                        utilizando as duas Tabelas igualando as
+                        chaves relacionadas e ainda utilizando um
+                        filtro
+	Passo19 – Avaliar o resultado do otimizador na Plan-
+                         Table e explicar o porquê do caminho
+                         escolhido.
+	Passo20 – Efetuar uma carga de 20000 linhas na
+                         tabela pai e 40000 linhas na tabela filho,
+                         mantendo o relacionamento das duas, de
+                         acordo com a PK e FK. 
+	Passo21 – Explanar para o otimizador uma consulta
+                        utilizando as duas Tabelas de maneira
+                        independente, sem igualar as chaves de
+                        relacionamento.
+	Passo22 – Avaliar o resultado do otimizador na Plan-
+                         Table e explicar o porquê do caminho
+                         escolhido.
+
+Passo23 – Explanar para o otimizador uma consulta
+                        utilizando as duas Tabelas de maneira
+                        independente, sem igualar as chaves de
+                        relacionamento, porem colocando um filtro.
+	Passo24 – Avaliar o resultado do otimizador na Plan-
+                         Table e explicar o porquê do caminho
+                         escolhido.
+Passo25 – Explanar para o otimizador uma consulta
+                         utilizando as duas Tabelas igualando as
+                         chaves de relacionamento e colocando um
+                         filtro.
+	Passo26 – Avaliar o resultado do otimizador na Plan-
+                         Table e explicar o porquê do caminho
+                         escolhido.
+Passo27 – Explanar para o otimizador uma consulta
+                         utilizando as duas Tabelas igualando as
+                         chaves de relacionamento e colocando um
+                         filtro, sendo que o filtro deverá ser em
+                         cima do campo de índice.
+	Passo28 – Avaliar o resultado do otimizador na Plan-
+                         Table e explicar o porquê do caminho
+                         escolhido.
+
+             Passo29 – Criar um índice para uma tabela,sendo que
+                          o índice deverá ser uma expressão
+                          aritmética.
+Passo30 – Explanar para o otimizador uma consulta
+                         utilizando as duas Tabelas igualando as
+                         chaves de relacionamento e colocando um
+                         filtro, sendo que o filtro deverá ser um
+                         cálculo igual ao criado no índice.
+	Passo31 – Avaliar o resultado do otimizador na Plan-
+                         Table e explicar o porquê do caminho
+                         escolhido.
+

@@ -1,0 +1,25 @@
+﻿Assistir Videos do Youtube pelo MPV a partir do Terminal:
+
+
+--Usar o comando para assistir no exemplo:
+
+
+
+mpv --ytdl-format=best[height=360] "https://www.youtube.com/watch?v=Icol0dtcxnU"
+
+trocando o link do video para outros videos,
+nesse formato rodara em media qualidade os videos.
+
+
+
+Baixar Videos pelo terminal(o numero 18 escolhe o padrão 360p):
+
+youtube-dl -f 18 "https://www.youtube.com/watch?v=Icol0dtcxnU"
+
+
+
+Para se assistir a partir de um numero especifico da playlist:
+
+mpv -ytdl-raw-options=playlist-start=34 -ytdl 'https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28'
+
+

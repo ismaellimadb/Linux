@@ -1,0 +1,26 @@
+Linux Commands 2:
+cd (change directory): change currently folder directory. (cd ..) come one folder back. also typing cd whenever folder you are, we go back to our main directory, if the directory (or a file) we want to use have space we need to use '' like 'File Directory'.
+mkdir(make directory): create a folder specifying the name, example mkdir other, will create a folder named other.
+rmdir(remove directory) will remove a folder from the local.
+touch: will create a new file but will not replace one that already exists.
+rm(remove) remove files.
+cp(copy): will copy a file after specifying another name for the copy. example cp Story Story2.
+mv(move): move the file to another directory after specifying the file name, local where is going to be moved and the name of the file. example mv story2 Other/story2. mv also rename the file after moving so if we want just to rename a file we just use mv the currently name of the file and the new name. example: mv story tuna.
+clear: clear the screen.
+
+grep: search a o word inside a file after you type the name you want to search and the file you want to research. example: grep Linux studies.txt
+diff(diference): show the diferences among two files after typing diff file1 file2 for example.
+passwd: Using this command will change our password in Linux.
+
+We can use Variables in Linux Terminal just signing the variable equals something‍ like name=bucky and we print in screen just like in php using echo $name for example.
+
+info: says information about a command in linux. example info echo.
+
+command ctrl z: Will get out of a command. for example you tiped info echo and you don't feel like reading everything, just use ctrl z to go back.
+
+reset: will reset the terminal.
+
+command > filename: will create a file listing all the information the command tyipped is telling us. ls >> command  will write inside the file without replacing the info that was there before.
+
+shasum: This command will check the checksun of a file.
+

@@ -1,0 +1,6 @@
+google-chrome --app=https://link.do.site
+exemplo
+google-chrome --app=http://mangapark.me/manga/kangoku-gakuen/s2/c197?zoom=4
+
+google-chrome --app=http://mangapark.me/manga/kangoku-gakuen/s2/c198?zoom=4
+

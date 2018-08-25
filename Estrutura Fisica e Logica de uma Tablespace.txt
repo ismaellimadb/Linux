@@ -1,0 +1,9 @@
+No sentido Logico, uma Tablespace é a junção de Segmentos, extensões e blocos.
+
+Segmento é um conjunto de extensões. Um segmento equivale a uma tabela ou indice.O sgbd providencia blocos quando um segmento é criado ou necessita mais espaço.
+
+Extensão é um conjunto de blocos. 
+
+Blocos são a menor unidade logica no banco de dados. O sgbd armazena e gerencia os dados em blocos.
+
+Fisicamente uma tablespace é armazenada em um ou mais arquivos de dados.

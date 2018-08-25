@@ -1,0 +1,30 @@
+Files Permitions in Linux:
+Typing the command ls -l will show us a list of files and hidden files in the directory also showing some weird looking syntax like:
+rwx
+the r means we can read
+the w means we can write
+the x means we can execute
+
+this syntax is separeted in order for the u- user, g- a group, and o - other peaple
+
+chmod will change the permitions of a file using the syntax 'chmod o+w filename' for example, will change the file permition so outside peple can write the file.'chmod o-w filename' will remove the write permission instead.
+
+Changing the permission of a lot of group individuals, example:
+
+chmod u  g  o  filename
+      s  r  t
+      e  o  h
+      r  u  t
+         p  e
+            r  
+
+example:
+chmod 7  5  4  filename
+
+The 7 Stands for read,write and execute so the User will have these permissions.
+The 5 Stands for read and execute so the Group will have these permissions.
+The 4 Stands for read, so Others will have the permission to read.
+2 Stands for write.
+1 Stands for execute.
+6 Stands for read and write permissions.
+0 Stands for 'no permissions'.

@@ -1,0 +1,5 @@
+Mostra o tamanho de um diretorio:
+du -sh /diretorio
+
+Mostra o Tamanho de um arquivo:
+du -h /arquivo

@@ -1,0 +1,9 @@
+Linux Terminal Commands:
+
+pwd (print work director?): Show us our main section that we are working with in our main directory on the Linux terminal.
+cat: Cammand used to read our files in linux terminal.
+ls: List all the files that are inside ou main directory.
+ls -l: Give us more details about the list.
+ls -a: Show us the list and also show us hidden files.
+ls -la: Show us a list that combine the commands ls -l with ls -a.
+clear: clear the screen on the terminal.

@@ -1,0 +1,12 @@
+no windows
+set var=nome
+echo %var%
+
+no linux
+varnome="nome"
+echo $var
+
+sqlplus /nolog
+conn / as sysdba
+
+desc v$instance

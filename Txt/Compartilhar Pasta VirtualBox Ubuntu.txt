@@ -1,0 +1,5 @@
+Compartilhar Pasta:
+Virtual Box > Configurações > Rede > Bridge
+
+Internet no Virtual Box Rapida:
+Virtual Box > Configurações > Rede > Nat

@@ -1,0 +1,5 @@
+sudo apt-get remove pidgin
+
+sudo apt-get purge pidgin
+
+sudo apt --fix-broken install

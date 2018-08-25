@@ -1,0 +1,30 @@
+﻿press:
+ctrl + alt + t
+and type:
+'sudo -s'
+in the terminal.
+ 
+
+
+ou
+
+
+type:
+
+gnome-desktop-item-edit ~/'Área de Trabalho'/ --create-new
+and then
+move over to the command section and type in
+"/usr/bin/gksu"
+
+gnome-desktop-item-edit ~/'Área de Trabalho'/ --create-new
+pode ser usado para se fazer atalhos de programas na sessão de comando tambêm.
+
+
+
+
+--como instalar .deb e dependencias pelo terminal:
+after  have run sudo dpkg -i google-chrome-stable_current_i386.deb
+use:
+'sudo apt-get install -f'
+to fix the dependencies
+

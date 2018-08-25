@@ -1,0 +1,1216 @@
+The main quest is all too easy to botch up completely, so be careful!
+
+-------------------------------------------------------------------------------
+
+
+01. Meeting Lady Brisienna                                                  043
+    Level Req: None
+    Quest Req: None
+
+A few weeks after you begin the game, you will receive a letter from Lady
+Brisienna; she is another agent of the Emperor, and knows of your task. In her
+letter, she asks you to meet with her to discuss the current situation and
+where to begin your investigations. She'll give you one month.
+
+If you do not meet with her by the end of that month, she will send you another
+letter saying that she has extended her stay for one additional month, and she
+threatens to report your uncooperation to the Emperor if you do not meet with
+her. Keep in mind that if you refuse meet with Lady B, you will be marked a
+traitor to the Emperor, and you will be unable to continue with the main quest
+--as in, you lose! If you do plan on going ahead with the story, you must meet
+with this woman.
+
+The tavern she chooses to stay in is selected at random, but will be within the
+kingdom of Daggerfall. The gist of the meeting is that you should go ask around
+at the three main kingdoms of the bay--Daggerfall, Wayrest, and Sentinel--and
+see what they know.
+
+-------------------------------------------------------------------------------
+
+
+This is where the story splits up. There are a few different ways to really
+begin the main quest, and they branch and reconnect as they go along. Some of
+the quests are even optional. Of the 24 quests for the main story, only 18 are
+absolutely required. Here's the basic breakdown:
+
+
+***  Part I - The Missing Letter ***
+
+ 2. Morgiah's Letter       3. Cyndassa's Brother
+         |                           |
+         |                           |
+         |                           |
+         |                 4. Finding the Courier
+         |                           |
+         |                           |
+         +------>------>------>------+
+         |                           |
+         |                           |
+  5. The Lich's Soul      6. The Letter Retrieved
+         |                           |
+         |                           |
+         +------<------<------<------+
+         |                           |
+         |                           |
+         |               7. What is the Mantella?
+         |
+         |
+         |
+     End Part I
+
+
+***  Part II - Lysandus's Revenge ***
+
+            8. A Missing Prince
+                     |
+                     |                  
+         +-----<-----+----->-----+
+         |                       |
+         |                       |
+  9. The Painting       11. Seeking Medora
+         |                       |
+         |                       |
+         |                       |
+         |             12. Breaking the Curse
+         |                       |
+         |                       |
+         |                       |
+ 10. The Underking    13. The Dust of Restful Death
+         |                       |
+         |                       |
+         +----->-----+-----<-----+
+                     |
+                     |
+            14. Lysandus's Tomb
+                     |
+                     |
+                     |
+            15. Woodborne Hall
+                     |
+                     |
+                     |
+                End Part II
+
+
+***  Part III - Numidium Reborn ***
+
+   Part I         Part II
+     |               |
+     |               |
+     +--->---+---<---+
+             |
+             |
+       16. The Totem
+             |
+             |
+             |
+       17. Decisions
+             |
+             |
+             |
+   18. The Mantellan Crux
+             |
+             |
+             |
+          The End
+
+
+***  Optional Quests  ***
+
+     19. Blackmail --- OR --- 20. Elysana's Gift
+            |
+            |
+            |
+ 21. A Book for Barenziah
+
+
+ 22. The Madness of Nulfaga
+             |
+             |
+             |
+   23. Mynisera's Letters
+
+
+ 24. Elysana's Trap
+
+
+-------------------------------------------------------------------------------
+ |                   *** Part I - The Missing Letter  ***                    |
+-------------------------------------------------------------------------------
+
+02. Morgiah's Letter                                                        044
+    Level Req: 3
+    Quest Req: None
+
+After you hit 3rd level, you should receive a letter from Morgiah, princess of
+Wayrest--actually, you should receive a number of letters, hers is one of them.
+She knows something of the Emperor's letter, and will give you that information
+if you do a task for her; get used to this sort of arrangement, nobody will
+give you information for free. Morgiah is up by the thrones with her cat.
+
+Her task is to deliver a letter to the King of Worms, a powerful necromancer
+and without a doubt the coolest character in the game. To find him, make your
+way to the Dragontail Mountains, which lie in the southeast corner of the world
+map. His lair is called the Scourg Barrow.
+
+When you enter the Scourg Barrow, you will find nothing but a small room with
+seven coffins; open the second coffin from your left to find the secret passage
+--well, secret pitfall is more descriptive. Because you'll have to come back
+out this way, be sure to leave a Teleportation anchor in this entry chamber if
+you cannot Levitate or Climb--of course, you could drop an anchor regardless
+just to make life easier.
+
+You will drop down into a passage that will lead to a room with a few zombies
+and many doors. Kill or avoid the zombies, and leave out the door to the left
+of the one you entered through. Follow this passage to the end, and through the
+door. If you take a left at the fork, you will find yourself in a cavernous
+passage. Follow the slope downward, and take the first right. The passage
+should quickly become paved, and you will find a passage and door to your left.
+
+Pick or bash open the door and try to not to freak out, for the King of Worms's
+lair is filled with no less than two Ancient Liches and a Vampire Ancient,
+along with a few scantily clad dancers and dudes with wicked halberds.
+Fortunately for you, they won't attack unless provoked. The KoW himself is up
+on the dais, next to the coffin. Talk to him and he'll give you a reply letter
+for Morgiah. This puts you on good terms with the King of Worms.
+
+To get out, go back the way you came in--which is easiest if you left an anchor
+at the entryway. You'll have to levitate or climb out of the coffin; if you
+want to climb, the only scalable wall is the North one. If you can't climb or
+levitate, the developers were thoughtful enough the enchant the nearby tapestry
+to cast levitate on you.
+
+Return to Morgiah at Castle Wayrest and she will tell you that the Orc Chief
+Gortwog has the letter. She directs you to seek out Mynisera, the dowager queen
+of Daggerfall and wife of the late King Lysandus, about this matter; Morgiah
+advises you to approach the queen through her handmaid, Cyndassa.
+
+
+-------------------------------------------------------------------------------
+
+03. Cyndassa's Brother                                                      045
+    Level Req: 5
+    Quest Req: None
+
+Handmaid to Queen Mynisera, Cyndassa can be found in Castle Daggerfall. Her
+room is on the left side of the grand staircase that leads to the thrones. She
+will put in a good word for you with Mynisera if you do her a small favor:
+Cyndassa wants a particular werewolf killed.
+
+The werewolf will be located in a randomly selected dungeon in Daggerfall. As
+such, I can't help you find the poor beast, but you'll get a message when you
+kill the right one. Return to Cyndassa when you are finished.
+
+It turns out, of course, that the werewolf wasn't just any werewolf, but 
+Cyndassa's own brother. She wanted to put him out of his misery and prevent him
+from hurting anyone. Whatever. The important part is the deed is done.
+
+Cyndassa will reveal that the Emperor's letter was mistakenly delivered to
+Queen Aubk-i instead of Mynisera. She will also recommend you to Mynisera.
+
+
+-------------------------------------------------------------------------------
+
+04. Finding the Courier                                                     046
+    Level Req: 5
+    Quest Req: 03. Cyndassa's Brother
+
+You'll find Mynisera in Castle Daggerfall, in the room on the right side of the
+grand staircase. Curious about why the letter was not delivered properly, she
+will send you on a mission to track down the courier. This is somewhat of a
+wild goose chase, as Mynisera will send to you one person, who will inform you
+that the courier is expected to be in a certain town on a certain day; your
+task is to intercept him on that day. Keep in mind that the date for his
+arrival given to you in the quest dialog may be different from that of your
+logbook; if that is the case, go with your logbook.
+
+The courier will inform you that the letter was simply addressed to the Queen
+of Daggerfall. Of course, while Mynisera was queen when the Emperor wrote the
+letter, Lysandus died in the meantime and Gothryd and Aubk-i were in charge
+when the letter was delivered. Hence the confusion.
+
+That's it! This may not seem like an important errand, but it will all fit
+together soon enough.
+
+
+-------------------------------------------------------------------------------
+
+05. The Lich's Soul                                                         047
+    Level Req: 7
+    Quest Req: 02. Morgiah's Letter
+
+After you reach level 7 and have completed Morgiah's quest to deliver the
+letter to the King of Worms, you will receive a...message from him. An odd 
+fellow, the King of Worms contacts you by sending a zombie after you; after you
+kill it, you'll find a note stitched into the zombie's flesh. Sick, but
+effective! Zombie post is the only way to go.
+
+The necromancer has a task for you, so it's back to the Scourg Barrow to talk
+it over. If you don't remember how to get there, refer back to Quest 02. The
+King informs you that there is a certain lich lurking around the bowels of
+Castle Sentinel; your task is to kill it and trap its soul for the King of
+Worms. Don't worry, you don't need a soultrap spell or soulgem to do this
+quest; he'll give you a special scarab that will automatically trap the lich's
+soul.
+
+As the lich is in Castle Sentinel, that's your next stop. For ease of escape,
+drop a teleportation anchor somewhere. You'll have to find your way to the
+dungeon entrance from within the Castle itself. From the grand entry chamber,
+go straight through the door on the back wall into the garden. Go through the
+door on the far right corner of the room, and up the elevator. Follow that
+passage up to the throne room. From there, go through the first door on your
+right, straight through to the next door, and down the elevator.
+
+What follows is an extremely long corridor, during which you will notice the
+music change tunes. You are now in the dungeon of Castle Sentinel.
+
+Keep following the passage as it twists around and take the turn on your left.
+Then follow that as it descends a little. You will pass a lantern and then a
+torch; immediately after the torch, turn left. Follow the passage around to the
+elevator; the elevator will not stop for it, but you will want to get off at
+the first opening. Follow the passage and pull the lever you find in the room.
+Then return to the elevator and ride it to the top of the shaft.
+
+You will enter a room filled with blue bars. The obviously important door with
+the tapestries that is caged off leads to your final destination and the lich.
+To go there, we'll have to lower the bars, which currently block off every door
+in the room save for two: the one you entered through and one other, so exit
+through that other door, which is on the West wall, and ride the elevator you
+find to the bottom.
+
+Do not pull the lever by the elevator, but instead follow the passage to the
+right and take that elevator to the second opening; kill the critter, then
+follow the next elevator to the top. Going north will take you back to the blue
+bar room, which is currently blocked off, so go East and follow the passage
+until you find a lever. Pull that lever and return to the elevator, going North
+this time into the blue bar room.
+
+You will find a new door has been opened, directly across from you, so go
+through it and down the elevator. You will find yourself in a torture chamber
+with a lever. Pull the lever and return to the blue bar room.
+
+Now go straight through the blue bar room to the previous elevator (left door on
+the South wall) and ride it to the bottom, around the bend, and take the second
+elevator to the bottom. If you go to the right, you will see that the bars are
+no longer blocking that passage, so go that way. Pull the lever you find and
+ride the elevator to the top.
+
+You will find yourself back at the Blue Bar room, except that the cage is gone.
+Go through the tapestry door, and follow the passage to its end, where you will
+find the lich. Remember that he can only be harmed by mithril weapons or
+better, or by magic. Once he is disposed of and his soul siphoned into the
+scarab, return to the King of Worms for your reward.
+
+Your reward is that the King of Worms tells you about the Underking, who is
+Zurin Arctus, the Imperial Battlemage who aided Tiber Septim in his conquest of
+Tamriel. Septim betrayed Zurin, for reasons you will discover, but the
+battlemage managed to live on in an undead state, and eventually became known
+as the Underking.
+
+
+-------------------------------------------------------------------------------
+
+06. The Letter Retrieved                                                    048
+    Level Req: 5
+    Quest Req: 02. Morgiah's Letter, 04. Finding the Courier
+
+Now that Morgiah has informed you that the Emperor's letter is in the hands of
+Gortwog, and Mynisera is aware of her missing letter and how it went astray,
+it's time to go get the damn thing. If you talk to Mynisera, she will send you
+with a letter to Gortwog, who lives in Orsinium. You'll find Orsinium north of
+Wayrest on the world map. Gortwog himself will be in the back of the entrance
+chamber
+
+In her letter, Mynisera asks Gortwog to return the letter; in return she will
+aid him in his attempts to secure a sovereign nation for the orcs. Gortwog
+complies with this by allowing you to poke around Orsinium and find the letter
+yourself. Jerk.
+
+Go through the left door at the back of the entrance chamber. From here, it's a
+forkless path for quite a while. At the first intersection you come to, turn
+left. The path will be a straight shot for a while, but eventually you will
+come to a huge open chamber with a pyramidlike structure in the middle.
+
+You want to get up to the top balcony. You can either levitate yourself up
+there, or it just so happens that jumping into those fountains in the corners
+will teleport you around. The one you want is the fountain in the Northeast
+corner.
+
+Once you are on the balcony, follow the left staircase up and follow the right
+wall until you come to a door. Enter the door and continue to follow the right
+wall until you come to another door. Follow the passage through two cavelike
+areas, and continue to follow the right wall until the passage ends at a door.
+
+Go through the door and take an immediate left, following the passage until it
+opens up into a large room with--get this--a letter on a pedestal! Once you
+have the letter, go back the way you came in, or teleport if you thought ahead.
+
+
+Now we finally get to see what the Emperor wanted to tell Mynisera, what secret
+that was so important that he sent his trusted agent all the way to Daggerfall
+to investigate and retrieve. The letter tells that the Totem of Tiber Septim
+has been recovered by a certain Lord Woodborne of Wayrest, and that Mynisera
+should use her influence to persuade him to return the Totem to the Emperor.
+
+
+Now you have to ask yourself: What is this Totem, and what did Tiber Septim do
+with it? More importantly, who else knows the contents of this letter?
+
+Be sure to return the letter to Mynisera, so she can finally get her mail.
+
+
+-------------------------------------------------------------------------------
+
+07. What is the Mantella?                                                   049
+    Level Req: None
+    Quest Req: 06. The Letter Retrieved
+
+This isn't really a quest, but after you retrieve the Emperor's letter, you
+will receive letters from certain factions--assuming they like you enough. The
+letter will tell about Numidium, a massive brass golem that Tiber Septim used
+to conquer Tamriel centuries ago. Numidium is controlled by whoever possesses
+the Totem.
+
+If any faction really likes you, then you will also get letters with
+information about the Mantella, which is a magical gem that powers Numidium;
+without the Mantella, both the Totem and Numidium are useless.
+
+
+-------------------------------------------------------------------------------
+ |                   ***  Part II - Lysandus's Revenge  ***                  |
+-------------------------------------------------------------------------------
+
+08. A Missing Prince                                                        050
+    Level Req: 5
+    Quest Req: None
+
+Once you hit level 5, you should receive a letter from Prince Lhotun of
+Sentinel. You will find him in the grand entry chamber of Castle Sentinel. He
+has information for you, and just like everyone else, he asks you to do him a
+favor first. Lhotun tasks you to investigate the death of his older brother,
+Arthago, because he does not believe the official story of a sudden illness
+claiming his brother's life.
+
+Ask around and you'll find some interesting stuff, but after a few days or weeks
+you will receive a letter from an agent of the Underking, advising you to
+investigate a certain dungeon for clues about the missing prince. The dungeon
+is randomly selected, so you're on your own in finding whatever there is to
+find (it's a letter).
+
+Return your findings to Lhotun and he will tell you about Lysandus's love
+affair with the sorceress Medora Direnni, and to seek her out for information
+about his death. Unfortunately, after Lysandus's death his wife, Mynisera,
+banished Medora from the court of Daggerfall; she fled to her tower on the Isle
+of Balfeira, which was subsequently cursed by Lysandus's mother, Nulfaga,
+locking Medora in her tower and infesting it with all sorts of undead
+creatures. If you are to speak to her, you'll have to fight your way up to her.
+
+
+-------------------------------------------------------------------------------
+
+09. The Painting                                                            051
+    Level Req: 5
+    Quest Req: 08. A Missing Prince
+
+Some time after Lhotun's quest you will receive a letter from his mother, Queen
+Akorithi, bidding you to come see her. She has a task for you, as I sure you
+have guessed. No, she isn't offering information, just gold. The task is to
+break into Castle Wayrest and bring her a certain item--a painting, but it's a
+special painting, as you will soon see.
+
+Make your way to Castle Wayrest, and if you don't have a Teleportation spell
+(what have you been thinking?) get one. This dungeon happens to be full of
+teleporters, so it's not just a simple matter of retracing your steps to get
+back out. I'll go over how to leave anyways, but it's just easier for you if
+you teleport.
+
+It wouldn't hurt to have a water walking/breathing spell as well.
+
+Anyways, on to Castle Wayrest. Just for kicks, be sure to click on the creepy
+moaning kid in the entryway. What a weirdo! Drop an anchor, then make you way
+into the Great Hall behind the throne room, through the huge doors. From there,
+make your way through the door on the North wall--the guards will probably
+try to attack you at this point; feel free to kill them. Once through the door,
+turn left and follow the passage to a room filled with coffins. You will see a
+brick wall in the corner--this is a teleporter, so step into it.
+
+You will be transported to a room with another brick wall, which will lead
+you to another room and another brick wall. Ignore the lever in the second
+room. The final teleporter will send you to a torture chamber; exit through the
+door and take a right, through another door and make your way to the South.
+
+Follow the passage until you run into a door, which will be facing West. It
+will open up into a large water-filled canal. Go around the canal to the
+far West side, where you will see a board lying across the water. drop into
+the water. You will see a small tunnel to the East, which you will have to duck
+to get into. Crawl through the opening and then up, out of the water and
+through the door.
+
+At the top of the stairs you will find a window-like structure blocking your
+path. Believe it or not, but you'll have to squeeze through that window to
+proceed. SAVE YOUR GAME! You'll probably end up getting stuck in the window or
+falling into the void a few times. The best way to get through it is to duck
+and then climb through the opening; it can take a few tries to get right.
+
+Once you are through the window, follow the passage and take the third door you
+come to, which will be facing West. Follow the passage, taking the first left,
+and then continuing on until you come to the big room with--hey, a painting!
+You can "use" it to look at it. You'll see something interesting if you do.
+
+At this point, it's time to teleport away and report to Queen Akorithi back in
+Sentinel. If for whatever silly reason you neglected to lay an anchor somewhere
+that you can teleport back to, here's how to get out:
+
+Retrace your steps all the way back to where you last teleported. From that
+room (the torture chamber) exit through the door, and this time go left into
+the other room. In there you will find a secret door on the West wall. The door
+leads to an oddly textured, narrow corridor with very large stairs. The path
+will fork and you will see a wheel to the right. Spin that wheel and continue
+on your way.
+
+Eventually you will come to a room. Exit through the door on your left and then
+into the room across the hall, where you will find a teleporter. The teleporter
+will send you to a room with a fountain (you'll actually appear on top of the
+fountain). Exit and follow the passage until you see a door on your left, which
+will lead to a room with a final teleporter.
+
+If you look to the South wall you will see a secret door which will take you
+through a tunnel to a door. Through the door, take a left and follow the stairs
+up to a room, and then through the door to the South. Did the music just
+change? That means your back in Castle Wayrest, and out of the dungeon. Follow
+the left wall until you reemerge at the Great Hall. Don't forget that the
+guards still want you to kill them.
+
+Report back to Akorithi and give her the painting. She'll ask you if you
+looked at the painting; feel free to lie to her.
+
+
+-------------------------------------------------------------------------------
+
+10. The Underking                                                           052
+    Level Req: 8
+    Quest Req: 09. The Painting
+
+This quest begins with you receiving a letter from an agent of the Underking,
+asking you to meet him in a tavern in Sentinel. There, you will learn that the
+King of Worms has placed a cursed item in Castle Llugwych in the kingdom of
+Ykalon. The castle is a stronghold for the Blades, so your task is to remove it
+before it can do harm.
+
+Upon entering the castle, you will find yourself in a room with a few odd
+looking columns with heads. Proceed through the West door, through the room,
+and West again into a hallway. Follow the passage and take the first door you
+come to, on your left. Take a left and again, take the first door you come to,
+this time on your right. Pass through the room into the hallway.
+
+Follow the passage, going left at each of the two four-way intersections, and
+continue until you go South straight through a door. Continue going straight
+and take a left at the intersection. The passage will end at a South facing
+door.
+
+Go through the door and East, following the passage until it comes to an
+elevator. Past the elevator are two rooms, each with a switch. Pull both and
+then ride the elevator to the top. From there, follow the passage to the right.
+The rooms that follow are chock full of nasty critters, but they are guarding
+the cursed item, so through them you must go.
+
+Once you have the item, retrace your steps or teleport out. Then report back to
+the agent of the Underking. He'll remove the curse, let you keep the item, and
+then mark the location of Lysandus's tomb on your map. It's in Menevia.
+
+
+-------------------------------------------------------------------------------
+
+11. Seeking Medora                                                          053
+    Level Req: 8
+    Quest Req: 08. A Missing Prince
+
+Taking Prince Lhotun's advice, it's time to go see Medora about her knowledge
+about Lysandus's death and haunting. The path through her tower is not
+pleasant. You'll find Direnni Tower near the center of the Isle of Balfeira,
+which is the string of islands in the middle of the Illiac Bay.
+
+It would be wise to drop a teleportation anchor near the entrance to the tower.
+
+Once inside the tower, you will see the passage ahead deadends. Open the door
+next to you and enter the great staircase chamber. Go down the steps, across,
+and climb the second staircase to the first landing. You will see a wheel;
+give it a turn and return to the dungeon entrance. You will see that the hall
+that was a deadend is now open.
+
+Follow the hall through a door and then make an immediate right, walking
+through a passage with a few vertical support beams, and enter the room at the
+end. Here, you will find a torture chamber with an odd brick wall. That brick
+wall is actually a teleporter. By walking into it, you will transported into a
+flooded room piled with crates. Exit through the door and climb the stairs
+into the next room.
+
+You will find another brick wall in this room. Clicking on it will transport
+you into the next area. If you exit through the door to the left of the green
+tapestry, you will find yourself in a large chamber with a pyramid in the
+middle. Your target is to reach the balcony; you can levitate their yourself if
+you have the spell. For those without levitation spells: if you walk straight
+up the slope, you will see a chain dangling from the balcony; click on it, and
+it will cast levitation on you.
+
+Float up to the balcony and follow the staircase on the left. Follow the right
+wall, and enter the door. Go straight and you will enter an oddly shaped,
+mazelike area. Follow the right wall until you come to a torch, then go
+straight West. Just before the path veers to the left, you will see passages on
+your left and right sloping downward. Follow either one (they meet up at the
+same place) and follow the stairs down.
+
+And it's puzzle time! If you look to your left, you will see a column with four
+levers on it. If you go south and go through the door by the tapestry, you'll
+come to the puzzle itself. The levers move the walls in that area, and only by
+pulling the right ones will you be able to pass through the series of chambers.
+Muck around them if you like, but the levers to pull are the ones with
+tapestries opposite them (the East and West ones). Pull them, and proceed to
+the south, through the puzzle room, and follow the passage straight up to
+Medora's room.
+
+If you speak to Medora, she will ask you to help her lift the enchantment
+Nulfaga placed on her tower. If you will help her, she will help you lay
+Lysandus's spirit to rest. Unfortunately, the task involves you leaving the
+tower, finding an item, and then returning all the way through this dungeon
+again to give it to her. So I hope you enjoyed this trip--you'll be doing it
+again shortly!
+
+
+-------------------------------------------------------------------------------
+
+12. Breaking the Curse                                                      054
+    Level Req: 10
+    Quest Req: 11. Seeking Medora
+
+In order to break the spell over Direnni Tower, you'll have to go to Nulfaga's
+castle, Shedungent, in the Wrothgarian Mountains. You are looking for a Great
+Unicorn Horn, which Medora can use to dispel the curse laid on her.
+
+If you have already done the optional Quest 22. The Madness of Nulfaga, then
+you already know the shortcut into Nulfaga's chamber. If you haven't done Quest
+21, then you might as well drop by Castle Daggerfall and talk to Queen Aubk-i;
+you're going to walk right by Nulfaga anyways, so you might as well accomplish
+both quests as once!
+
+If you haven't been to see Nulfaga yet and don't know the shortcut into and out
+of her chamber--and don't want it revealed right now--then you'll find the
+walkthrough for finding Nulfaga under Quest 22. For now, we'll use the shortcut
+that you'll learn the first time you meet the crazy old bat.
+
+Once in Shedungent, walk straight ahead and click on the banner by the door.
+Answer "shut up" and the door will open for you. You're now back in Nulfaga's
+chamber; feel free to say hello and get your daily recommended dosage of
+nonsensical rambling, but our real business is straight through the chamber
+into the passage on the North side.
+
+Continue along the passage, going up and down a flight of stairs, and then
+follow the passage to the left at the first intersection, up some more stairs.
+You will come to a four-way junction, take a left and follow the passage around
+until you see a torch on the left wall. Click on it and then take the next
+left. Follow the right wall around the bend and you will come to a room.
+
+It may look like a dead end, but there is actually a secret door on the South
+wall. You can recognize it by the mismatched texture. Beyond is a small room
+with the Horn on the bed. Snatch it up and return to Medora.
+
+
+-------------------------------------------------------------------------------
+
+13. The Dust of Restful Death                                               055
+    Level Req: 10
+    Quest Req: 12. Breaking the Curse
+
+About one month after you free Medora, she will contact you in a vision. She
+tells you that Gortwog knows the location of the Dust of Restful Death, which
+can help calm the spirit of Lysandus. If you go to Gortwog, he will tell you
+where the dust is located--in a nearby dungeon, selected at random. So you are
+on your own once again. Gortwog may not make this clear, but you are actually
+looking for a mummy that is carrying the dust.
+
+Once you have the dust, which accompanied by a letter from Gortwog, take it
+back to Medora. Yes, in her tower. Again. She will require a month to prepare
+the dust for use, so you'll have to leave Direnni Tower and return after a
+month has passed. You'll probably be happy to know that once you have the
+refined dust, you won't ever have to retrace your steps through that damn tower
+ever again!
+
+
+-------------------------------------------------------------------------------
+
+14. Lysandus's Tomb                                                         056
+    Level Req: 10
+    Quest Req: 10. The Underking, 12. Breaking the Curse
+
+So you have the Dust of Restful Death, and Medora has prepared it for use. Now
+you just have to find Lysandus's tomb. There are only two ways to get the
+location. Once is by completing Quest 10. The Underking, the other by doing the
+optional Quest 23. Elysana's Trap. Since you have to do Quest 10 anyways, it
+might as well be that one.
+
+So his tomb is in Menevia, as I'm sure you now know, so go there. It's time to
+pacify this vengeful ghost and see just what it would take to shut him up
+permanently. Considering he was murdered, I'm sure you can guess what he wants.
+
+This is a heck of a long trek. Be sure to drop a teleportation anchor near the
+entrance; it will make leaving so much easier. At the back of the entrance
+chamber with all the statues, take the left door. Follow the left wall until
+you go through a door. Then follow the passage until you see a floating skull.
+Clicking on the skull will teleport to another area.
+
+Go through the door in front of you, and follow the passage. At the first
+intersection, take a right. Watch out for the pitfall at the top of the ramp,
+and follow the passage until you pass through a door. Turn left, and then take
+a right at the next two intersections. At the third, which you should approach
+pointing South, go East.
+
+Once you pass through the door, take a right. Follow the passage, turning only
+when the passage turns, and you will eventually come to a door on your left.
+Take the door, which will lead to an area with a different tileset.
+
+At the next two intersections, take a left, and then a right. Follow the
+passage through a door and a small room. After the small room, follow the
+passage straight through and take the second door on your left; it will be
+facing East.
+
+Follow the passage. It's a long one. At the second intersection, turn right.
+Then take a left at the next one. The passage will end at an elevator, which
+you should ride to the bottom. Then follow the passage all the way around; once
+you are facing North, take the second door you pass and ride the elevator down
+to the bottom. Down there you will find a room with a lever; pull it and ride
+back up to the top and continue along the passage until you end at a door.
+
+You are now in Lysandus's Tomb! Go through the opened hatch in the Southeast
+column; there you will find a switch. Once you pull it the floor of the main
+chamber will begin to lower, so after you pull it quickly run over so you can
+ride it down to the bottom.
+
+Click on Lysandus's Coffin, and you will automatically use the Dust of Restful
+Death to calm him enough to speak to you (this is a cutscene). He will tell
+you that his murderer was Lord Woodborne of Wayrest, and he seeks vengeance on
+him. Considering a certain "W" has been sending assassins after you, I don't
+think you'll mind taking care of this for the late king.
+
+Getting out is a pain. At this point, you should just teleport back out.
+Otherwise: facing Lysandus, if you click on the first statue to the left of
+his little area, the floor will begin to raise again. From there, you'll have
+to retrace your steps all the way back to the room the skull teleported you to.
+On the Northern wall, you'll find a well-masked secret door that will lead to
+another skull, which will teleport near the entrance.
+
+
+-------------------------------------------------------------------------------
+
+15. Woodborne Hall                                                          057
+    Level Req: 10
+    Quest Req: 14. Lysandus's Tomb
+
+We know you did it, Woodborne. And we know where you live, too. It's time to
+deal out some sweet, sweet vengeance. There are actually two ways of doing
+this. You can either find and kill Woodborne yourself, or you can find his
+letter confessing the crime, take it to King Eadwyre of Wayrest and let him
+execute Woodborne for you. Both tasks begin at Woodborne Hall in Wayrest.
+
+The dungeon opens into the grand entry. You'll see disconnected pieces of a
+great ramp that leads up to the upper level, and normally you would have to go
+running around looking for the four switches to move the ramp into position.
+Well, not today; I've told before that you have to be able to climb or levitate
+to finish the main quest; while this isn't quite one of those necessary
+moments, you should have the skills anyways. So let's put them to the test.
+
+Method one: just levitate yourself up there! Why waste time moving ramps around
+when you can fly? Seriously!
+
+Method two: you can also climb up, but it takes a little trick to do. You see,
+if you sidestep while climbing, you will fall in that direction. This means
+that if you climb up the wall next to the ramp, once you are above it you can
+sidestep in that direction, causing you to fall onto the ramp. So what you need
+to do is look up on the North wall and see where the right edge of the ramp is.
+You should be able to follow the line of the bricks on the wall and position
+yourself such that you can climb up right next to the ramp. Now climb! You
+should be close enough to the ramp that you will see it as you pass; once you
+are above it, sidestep to the left, and you should land on the ramp. Hah!
+
+Now that you are up, go through the door and follow the passage, turning only
+when you must. You will pass through two intersections, a door, a very long
+hallway, another door, and then you will come to an intersection. Here you must
+make your choice: Do you go for the letter, or do you KILL WOODBORNE?
+
+-- The Letter:
+
+Go right at the intersection. Follow the passage until you come to a T; take a
+right, and follow the passage until you come to an elevator. If you look South
+of the elevator, you will see a wall blocking off the passage. If you ride the
+elevator up and down and back, it will be gone. Go figure. No, you can't just
+send the elevator around, you actually have to be riding on it. Congratulate
+yourself on finding the oddest security system in the Bay, and go on down the
+passage into the room. You'll find a few treasure piles and the letter. Take it
+to Eadwyre and let him do the dirty work.
+
+--- The Kill:
+
+You want to kill him yourself? I don't blame you as he's probably been sending
+assassins after you for quite a while. And if you did any quests for Elysana,
+Woodborne's betrothed, which always turned into traps, I'm sure you're holding
+more than a few grudges. Well, it's time to make like the dead king of
+Daggerfall and lust for revenge!
+
+Go straight through the intersection, and then go East at the next. Go straight
+through the next intersection, and take your first left. Through the door,
+follow the passage through the four-way intersection. Continue along the passage
+and it will come to a T and then a fork; go left both times. After the fork,
+take the first door on your right. Inside will be Lord Woodborne. Hack his ass
+to pieces, and leave.
+
+Once Woodborne is dealt with, you should see the cutscene of Lysandus thanking
+you and going to his rest.
+
+
+-------------------------------------------------------------------------------
+ |                    ***  Part III - Numidium Reborn  ***                   |
+-------------------------------------------------------------------------------
+
+16. The Totem                                                               058
+    Level Req: 14
+    Quest Req: 5. The Lich's Soul, 6. The Letter Retrieved, 15. Woodborne Hall
+
+Once you've completed the first two parts of the main quest, you should be
+contacted by Lady Brisienna again, urging you to meet her at a tavern in
+Wayrest. There, she'll tell you your next mission--to retrieve the Totem of
+Tiber Septim!
+
+But wait, didn't the Emperor's letter say that Lord Woodborne had it? Yes, but
+remember that Queen Aubk-i read that letter, and so did Gortwog, and so did a
+lot of other people. Lady Brisienna will inform you that Aubk-i had the Totem
+stolen from Woodborne, and it now lies in the vault of Castle Daggerfall.
+
+From Castle Daggerfall, go up to the thrones and take the door to the left of
+King Gothryd. Follow the passage until you come to a large open chamber.
+
+To your left you should see a floating platform extending into the room, walk
+out to the end of it. Look to the Northwest; do you see the bridge that leads
+to a door? You must get to that door. If you can levitate, do so.
+
+If you cannot levitate, there is another way: Look down; you should see a small
+bridge below the platform you are standing on. Drop down onto it, then go South
+into the room. Immediately to your right you will see a bridge that connects to
+the central tower. Cross over, enter the tower, and go up the stairs to the
+next floor. Cross the bridge in front of you can go through the door.
+
+Go West around the ledge and North to a door, then North again through another
+door. You are now in the vault! Go down to the very bottom of the room, falling
+down into the water-filled pit. From there, take the left passage on the South
+wall down and turn the wheel you find there. When you return, you'll find the
+vault has been lowered. Now go into the right passage on the South wall.
+
+In there you will find three chains. The left one teleports you above the
+vault (but not quite on top of it), the middle one teleports you to the ledges
+beside the vault, and the right one casts waterbreathing on you. Pull the
+middle one, and then either levitate or make a running jump from a high ledge
+onto the top of the vault. Pull the lever you find there, which will open the
+vault.
+
+The Totem is located on the North side of the vault, in the middle chamber on
+the right side. If you stand on the ledge nearby, you can just run off it into
+the chamber. Snag the Totem, and get out.
+
+
+-------------------------------------------------------------------------------
+
+17. Decisions                                                               059
+    Level Req: 14
+    Quest Req: 16. The Totem
+
+Once you leave Castle Daggerfall with the Totem, you should start hearing from
+the various factions competing for control of the Totem. If they like you,
+they'll send you letters pleading their case; if they don't like you, they'll
+send assassins instead. During this time (you have a year and a day), you must
+choose one of the factions to give the Totem to--you are basically choosing who
+wins the game.
+
+Your choices are:
+
+The Emperor, via Lady Brisienna
+Gortwog and the Orcs of Orsinium
+King Gothryd and Queen Aubk-i of Daggerfall
+King Eadwyre and Queen Barenziah of Wayrest
+Queen Akorithi of Sentinel
+The Underking
+The King of Worms
+
+They all want the Totem for different reasons. Some of the factions will reward
+you in some way, either in gold, items, or in some cases, betrayal. You can try
+to use the Totem yourself, but that's a bad idea.
+
+
+-------------------------------------------------------------------------------
+
+18. The Mantellan Crux                                                      060
+    Level Req: 14
+    Quest Req: 17. Decisions
+
+Once you have given the Totem to the faction of choice, Nulfaga will contact
+you, bidding you to see her in her castle of Shedungent. You have retrieved the
+Totem of Tiber Septim, but Numidium cannot be woken without the Mantella. This
+is your final quest, to venture into Aetherius, to the Mantellan Crux. Prepare
+yourself for an epic dungeon, and return to Nulfaga when you wish her to
+transport you to Aetherius.
+
+Let me tell you now two important things:
+ 1. There is only one way out of the Crux, and that is by grabbing the
+Mantella. The only other way to leave this dungeon is to teleport back to an
+anchor set before leaving.
+ 2. Nulfaga will only send you to the Crux once. If you teleport out, that's
+it--you lost your only chance of getting the Mantella.
+
+You only get once chance at this, so make it count. Make sure your gear is in
+shape and you have all the weapons and items you need before leaving for the
+Crux.
+
+** Remember that you ABSOLUTELY must be able to either Levitate or Climb and
+** Jump well to complete this dungeon.
+
+OK, when you're ready, go talk to Nulfaga again and she will transport you to
+Aetherius. Be warned: the Mantellan Crux is one heck of an odd place!
+
+
+--- Area 1: The Islands
+
+You will materialize on a small floating island with a statue on it.  If you
+click on that statue, it will cast Levitate on you (isn't that nice?); quickly
+rise upwards, and up to the Southeast you will see a small floating rock with a
+switch on it. Pull the switch, and now descend down to the island below the
+starting island.
+
+You will see four doors floating in air. Click on the Southernmost door; it
+doesn't matter if the Frost Daedra opens any or all the doors, you must click
+the south door and only the south door. Floating downward, you will find a
+small chamber in the Eastern side of the island; pull the switch and then float
+upwards.
+
+Up high (and I mean high) above the starting island, you will see an opening to
+the Southwest; enter the opening. If your levitation starts to wear off as you
+make your way to the opening, try to make it back to the starting island and
+the statue will recast the spell (unless, of course, you can cast it yourself).
+Once in the opening, levitate or climb up the shaft.
+
+Follow the passage, going straight at the intersection. You will pass a set of
+blue bars; pull the lever at the end of the passage to remove then, then
+proceed. You will pass a few more levers. Ignore the first one; pull the
+second, third, and at the end of the corridor, the fourth as well. Then return
+the way you came, down the shaft and to the opening.
+
+You must now return to the starting island, which you should barely be able to
+see if you look down. If you cannot levitate, a running jump from the
+threshold of the opening should do the trick. Once you are on the island,
+follow the stairsteps down to the chamber within. Step onto the carpet to be
+transported to the next area.
+
+
+--- Area 2: The Pyramid
+
+This part is difficult to do without levitation magic, but it is possible.
+
+Exit the passage and ride the elevator on your right down. You will see a
+graveyard area to the West Southwest. If you can levitate, float over there; if
+not, you'll have to jump ship early, leaping from the elevator before it
+reaches the bottom, such that you land on the graveyard.
+
+There are three headstones that are important: The Southwesternmost and the
+Easternmost each need to be clicked once and only once; they will groan at you.
+The third is the Northernmost, which carries a clue.
+
+Once that is done, fall or float down to the string of rocks and make your way
+into the chamber in the side of the floating graveyard. Pull the lever you find
+there, and then ride the elevator down to the bottom. Levitate over or hop
+across the rocks to the elevator, and ride it to the top. It's a long ride.
+
+Once at the top, with a nice view of the pyramid, look up to the North and you
+will see an opening in the wall. Levitate up there; if you cannot levitate, you
+must climb! Fortunately, you can begin a climb from a fall! Position yourself
+right in front of the opening and as perpendicular to the wall as possible; use
+the compass needle to face yourself as North as possible. When you walk off the
+edge you will fall for a little, and then start climbing! You'll have to get
+pretty close to the right point of the elevator, and it may take a few tries,
+but you can do it. If you did it correctly, then you will climb right into the
+opening.
+
+Follow the passage up to the room, and talk to the man. His name and the answer
+to the riddle is "Benefactor". This will open the top of the pyramid. Make your
+way back to the opening, and either levitate or make a running suicide leap
+onto the pyramid. Ride the elevator down. You will find a elevator in the
+Northeast corner; if it is still covered with a trapdoor, then you did not
+click on the Easternmost gravestone properly. Ride it down, and drop down the
+shaft to your right, and then down again to exit the section; if the last shaft
+is covered, then you missed the Southeasternmost gravestone.
+
+
+--- Area 3: The Temple
+
+This one is the easiest. Take a left and go out into the open chamber, and then
+follow the steps to the right down to the upside-down temple. You will find a
+door on the East side of the temple, open the door and pull the lever you find
+there. Now repeat for the West side. OK, now go back to the front and click on
+the big blue crystal.
+
+
+--- Area 4: The Skulls
+
+You are in a room surrounded by eight doors. Take the left door on the South
+wall, and follow the left wall until you go through a room and into a large
+fiery chamber. It'd be a good idea to go ahead and drop down to the floor and
+kill off the fire daedra, otherwise they'll be tossing fireballs at you all
+day. Once they are killed, click on the cage to be teleported back to the room
+just before the fire chamber.
+
+Now click on the first skull to get your riddle. The basic gist is that you
+need to click on the skulls who are looking inward toward the big skull. Easy
+enough, the first one is West along the railing, the first skull you come to.
+OK, now return to the intersection, and this time go South. The third skull
+you come to should be facing inward, so click on it and continue on. That's it
+for the skulls. Just continue along the railing to the end and jump in the eye
+of the big skull.
+
+Talk to Sheogorath if you want, but your destination lies down the elevator.
+Oddly enough, the elevator is triggered by your movement across the floor, so
+you'll want to wait for it to get to the top, them move around and jump on. At
+the bottom you'll have to duck to squeeze through the door; click on the skull
+and answer his riddle. If you were paying attention to the skulls, you'd have
+noticed that only one was facing away from the skull, so the answer is "one".
+
+
+--- Area 5: The Sword and Crossbow
+
+You are now in a small closet and about to play Russian roulette with a bunch
+of skulls. One of them opens the door, some of them make noise, some of them
+teleport you, and some of them will kill you outright. Click on the right one
+on the North shelf to open the door, where you will fight your way through a
+spiraling passage to the end--or, if you click the middle one on the Eastern
+shelf, it will teleport you to the end of the spiral. Nice!
+
+From there, go West until you find a door, and up a lot of stairs. At the top,
+climb or levitate up the shaft; if you climb, you will have to use the
+sidestepping trick I showed you in Woodborne Hall. At the top of the passage
+you will find another shaft; there is a passage on the North side that you need
+to fall or levitate into.
+
+Go straight North through the passage, though a secret door, and all the way to
+the end, where you will find Sheogorath again. The answer to his riddle is
+"crossbow". Now go back to the central shaft and fall down to the bottom.
+
+You will find yourself on a platform next to a huge sword. Go down the hole
+into the room inside, where you will find a box. Click on the left banner to
+open the outer box, then click on the inner box to open it, then finally the
+crystal. The island will begin to sink. Stay inside or go out to shoot at the
+daedra lords. Once it has stopped sinking, you will see a large crossbow. Go
+stand where the bolt would go, and then click on the left battleaxe. The
+crossbow will fire, shooting you upwards. If you look down, you will see the
+sword sloping back. Hop onto the sword and run up it, through the door and down
+the elevator.
+
+
+--- Area 6: The Mantella
+
+This is it! You cannot get lost here; there is only one way to proceed. After
+the hallway of pitfalls, you will see the Mantella. Levitate over and get what
+you came here for. If you cannot levitate, then make a running jump onto the
+shrine, then climb up the sides to reach the gem.
+
+
+--- The End!
+
+Congratulations! You just finished the main quest! Now sit back and watch the
+cutscene; the ending is different depending on which faction you gave the Totem
+to:
+
+* If the Emperor won, he uses Numidium to reconquer the Illiac Bay and the
+provinces of Tamriel, strengthening the empire.
+* if the Underking won, then he sucks the energy from the Mantella and gives
+himself his final rest.
+* If Daggerfall, Wayrest, or Sentinel won, then they use Numidium to conquer
+the other kingdoms of the bay. The empire is weakened. The Underking shows up
+to destroy himself and Numidium at the last minute.
+* if Gortwog won, he uses Numidium to conquer the other kingdoms of the bay
+and the forces of the Emperor, but the Underking still arrives to destroy
+himself and Numidium. Regardless, Gortwog secures a nation for the orcs.
+* If the King of Worms won, he uses the Mantella to make himself into a god.
+* If you tried to use the Totem yourself, Numidium crushes you and goes on a
+rampage before the Underking shows up and blows himself and the golem up.
+
+
+-------------------------------------------------------------------------------
+ |                        ***  (Optional Quests)  ***                        |
+-------------------------------------------------------------------------------
+
+19. Blackmail                                                               061
+    Level Req: 4
+    Quest Req: None
+
+This and Quest 20. Elysana's Gift are mutually exclusive; if you take one you
+cannot do the other.
+
+If you talk to Prince Helseth in the great hall of Castle Wayrest, he'll give
+you a quest. You are to deliver a letter to Lord Castellian. Easy enough. If
+you do not read it, then all goes as planned and Helseth will pay you with a
+magic something or other.
+
+If you DO read the letter, then you have to make a choice. If you give it to
+Castellian, then Helseth will still pay up, but your reputation for Wayrest
+will drop significantly. If you give it to King Eadwyre, your rep with Wayrest
+will increase significantly. It all depends on what outcome you want.
+
+
+-------------------------------------------------------------------------------
+
+20. Elysana's Gift                                                          062
+    Level Req: 6
+    Quest Req: None
+
+This and Quest 19. Blackmail are mutually exclusive; if you take one you cannot
+do the other. Anyways, head to the throne room of Castle Wayrest.
+
+I hate this girl. She's engaged to Lord Woodborne, and every bit as conniving
+and backstabbing as he is. This is in every way a trap, and you're stuck in it.
+She wants you to deliver a robe to Lord Castellian (apparently she and her
+brother Helseth just hate this guy); the robe, of course, is cursed.
+
+If someone puts on the robe, it will summon Daedra Seducers to kill them. If you
+put it on yourself, they will come for you--a tough fight for a level 6
+character. Even if you defeat them, you fail the quest. No, you actually have to
+give it to Castellian, who will of course be jumped by daedra seducers.
+
+But wait, there's more! Not only will the Seducers attack you and Castellian,
+but Castellian's guards will show up and attack you for trying to assassinate
+their lord! What fun!
+
+Once you're done, report back to Elysana so she can play the "Oh, I had no idea
+that was cursed" card.
+
+-------------------------------------------------------------------------------
+
+21. A Book for Barenziah                                                    063
+    Level Req: 9
+    Quest Req: 18. Blackmail
+
+If you did not deliver the letter to Castellian in Quest 19. Blackmail,
+Barenziah may not offer this quest to you. It begins with a letter.
+
+You are to retrieve a book that was stolen by the orcs. Interestingly enough, if
+you do not retrieve the book in time, it will be stolen by the necromancers. If
+that happens, talk to Gortwog and he will tell you they have it in the Scourg
+Barrow. It is much easier to get the book from Gortwog, so make your way to
+Orsinium quickly.
+
+Go through the left door at the back of the great hall. Follow the passage,
+taking a left at the first intersection you come to. You will eventually come
+out at a large open chamber with a pyramid.
+
+The book is down the in the pit at the center of the room, but the doors are
+magically sealed. To unseal them, you'll have to reach the upper level. If you
+cannot just levitate yourself up there, go jump in the fountain in the
+Northeast corner of the chamber; it will transport you to the balcony. From
+there, take the left staircase. At the next few intersections, go Left, Left,
+Straight, and Left again. You will find a wheel; spin that wheel and go back to
+the pit and jump in. The book is through the eastern door.
+
+To get out of the pit, you will see a wheel stuck to the north wall of the
+large, open shaft. Click on it to be transported to the balcony. Take the book
+back to Barenziah and get your reward.
+
+---
+
+If you did not get there in time, then you'll have to make your way to the
+Scourg Barrow in the Dragontail Mountains. It will be easiest to leave if you
+drop a teleportation anchor near the entrance.
+
+When you enter the Scourg Barrow, you will find nothing but a small room with
+seven coffins; open the second coffin from your left to find the secret passage
+--well, secret pitfall is more descriptive. Drop down and follow the passage to
+a room with many doors. Go through the door immediately to your left, and
+follow it to a fork. At the fork, go right and follow it until you reach the
+rift; you'll know it when you see it. Drop to the bottom of the rift and follow
+it all the way to the end, where it changes textures.
+
+Look on your map to see the small triangular secret door on the south side of
+the rift; open the passage and follow it to a wheel. Spin the wheel and then go
+across the rift to the passage opposite the secret door, and follow it to the
+chamber with the book.
+
+Now, to get out again, the best way is to teleport to the anchor you should
+have set at the entrance. If for whatever sick reason you neglected to lay an
+anchor, the way is rather difficult. The ONLY way to get back out is to go all
+the way back to the beginning of the rift and levitate or try to climb out.
+You cannot actually climb any of it, as the walls are slanted, but there are a
+few places where the slope is just barely light enough for you to walk up.
+
+Once you get out with the book, you can either give it to Gortwog or Barenziah.
+
+
+-------------------------------------------------------------------------------
+
+22. The Madness of Nulfaga                                                  064
+    Level Req: 3
+    Quest Req: None
+
+If you talk to Aubk-i, she will ask you to go check on Nulfaga, who is the
+mother of Lysandus, and quite insane to boot. She lives in her Castle of
+Shedungent in the Wrothgarian Mountains.
+
+The room you are looking for is actually right in front of the entrance. The
+difficulty is that to get through that door, you must know the password, which
+you get from Nulfaga. If you want the password, read ahead and then click on
+the banner to give your answer; otherwise, I'll walk you through the long way.
+
+The easiest way that I know of goes like this: Go west from the entrance and
+follow the passage; after some stairs, it will come to an intersection. Go West
+and then South at the next branch. You will pass under a portcullis; continue
+down the corridor and through the room at the end into another passage. Go West
+to the end of the passage.
+
+Do not go through the door you see, but through the one you don't see--the
+secret door to the North; it blends perfectly into the wall, but your map will
+still show it. Follow the passage until you pass through a door. Go East at the
+intersection and then straight until you go down some stairs. Go East again,
+and follow the passage until you enter Nulfaga's chamber.
+
+Talk to her and she will babble about some nonsense. The only useful thing she
+says is to "shut up the door", which tells you that the password for the
+shortcut is "shut up". The next time you come back (and you will), just click
+on the banner and give the password for a quick entry.
+
+Once you've talked to her, report back to Aubk-i for a few gold.
+
+
+-------------------------------------------------------------------------------
+
+23. Mynisera's Letters                                                      065
+    Level Req: 3
+    Quest Req: 21. The Madness of Nulfaga
+
+Well, you helped out Aubk-i with Nulfaga, now she wants you to dig up some dirt
+on Mynisera. You are to go to Mynisera's castle and find some letters she has
+left there. The dungeon is supposed to be random, but for whatever reason it
+almost always picks Castle Necromoghan. Nevertheless, the location within the
+castle is still random, so you're still on your own for this one.
+
+Snag the letters, which turn out to be nothing of any real importance, other
+than to show that Mynisera has had dealings with the orcs.
+
+
+-------------------------------------------------------------------------------
+
+24. Elysana's Trap                                                          066
+    Level Req: None
+    Quest Req: 06. The Letter Retrieved
+
+Ah, she's back with another quest/trap. This time, however, the target is you.
+You are to escort her "cousin" to another town. Easy enough, really, except
+that you'll be jumped by assassins everywhere you go until you ditch the girl.
+
+The only reason to take this, unless you just like assassins ambushing you, is
+to get the location of Lysandus's Tomb. If you screwed up Quest 10. The
+Underking, then this is the only way to get the location; one of the assassins
+will have a note with the location.
+
+
+-------------------------------------------------------------------------------

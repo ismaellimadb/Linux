@@ -1,0 +1,32 @@
+Locks
+
+-Locks existem para bloqueio de uma sessão que tenta atualizar um dado do banco de dados que ja está em uso, com o objetivo de grantir a integridade do banco de dados.
+
+-O Oracle utiliza o cabeçalho do bloco em que reside um registro para fazer o Lock, outros SGBDs utilizam um lock manager.
+
+-Locks para tratamento de linhas: acontece quando se tenta atualizar um dado de uma coluna que está em uso primeiramente em outra sessão, bloqueando a sessão sequente até que a primeira complete sua transação com commit ou rollback.
+
+-Locks para tratamento de tabelas: esse tipo de lock blockeia a atualização em que está ocorrendo a atualização de uma tabela toda, bloqueando a atualização de todas as colunas dessa tabela a deixando disponivel apenas para consulta.
+
+-Row Share (RS): Este tipo de lock tem como principal característica o bloqueio das linhas antes de fazer as alterações, ou seja, possui linhas locadas, mas ainda não efetuou a alteração nelas. É meio inviavel por conta de que muitas linhas forem deixadas nesse modo usuários que tentarem fazer alterações dessas linhas serão bloqueados.
+
+
+-Row Exclusive (RX) Bloqueia as linhas no momento em que elas são alteradas
+
+-Share (S) Este tipo de lock tem como principal característica permitir que mais de uma seção possa obter o lock de uma tabela
+
+-Share Row Exclusive (SSX)
+Este tipo de lock tem como principal característica permitir que somente uma seção possa obter o lock de uma tabela 
+
+-Exclusive (X) permite que as outras seções acessem as linhas somente para consultas.
+
+-Apesar de se poder criar locks manualmente, deixando o trabalho de fazer o lock para os gerenciadores garantem a maior consistência, integridade e simultaneidade dos dados.
+
+-Dead lock Quando dois ou mais usuários estão esperando por acesso a dados que um usuário bloqueou para o outro é conhecido como um dead lock ou impasse. 
+
+
+-bloqueio explícito,  feito pelo próprio administrador quando quer fazer uma manutenção em algum objeto do banco de dados e é feito por meio dos comandos lock table.
+
+-bloqueio implícito que o próprio sistema gerenciador de banco de dados cria quando emitimos um comando DML, ou seja, INSERT, UPDATE ou DELETE. Este bloqueio somente é liberado quando é emitido um comando com a efetivação da seção (commit) ou caso ela não tenha ocorrido com sucesso (rollback).
+
+

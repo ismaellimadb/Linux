@@ -1,0 +1,4 @@
+Excel
+segurando crtl e dando enter com varias linhas selecionadas vai copiar a informação a todas as linhas.
+
+segurando alt e dando enter com uma linha selecianada durante a digitação movera a área para a linha de baixo (isso pe muito util).

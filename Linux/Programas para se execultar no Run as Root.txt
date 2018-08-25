@@ -1,0 +1,8 @@
+sqldeveloper
+
+sudo apt-get remove pidgin
+
+sudo apt-get purge 
+
+sudo apt --fix-broken install
+

@@ -1,0 +1,9 @@
+ Currently, Tibero does not support partition addition to a HASH partition table.
+
+... If a tablespace is not specified as shown above, the system tablespace will be used by default.
+
+Criando Usuario identificado por Sistema Operacional:
+
+SQL> CREATE USER OSA$Steve IDENTIFIED externally;
+
+tbsql /

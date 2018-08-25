@@ -1,0 +1,11 @@
+C:\>pscp C:\Downloads\info.txt tibero@192.168.1.107:/home/tibero/Desktop/
+
+
+tibero@192.168.1.107's password: tibero
+
+pscp tibero@192.168.1.107:/home/tibero/Desktop/Tb6Adm.pdf C:\Downloads
+
+
+pscp C:\Downloads\tibero6-bin-FS06-linux64-151366-opt-tested.tar.gz root@192.168.1.109:/home/tibero/Downloads/
+
+pscp root@192.168.1.108:/home/tibero/trabalho.zip C:\Downloads

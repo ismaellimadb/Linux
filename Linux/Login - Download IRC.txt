@@ -1,0 +1,15 @@
+lubun01
+ora123
+
+Nick: lubun01
+/ns register ora123 lubuntunado01@gmail.com
+
+/MSG [a-S]Anime-Supreme XDCC SEND #
+
+#2824   1x [233M] [a-s]_rurouni_kenshin_-_89_-_to_my_angel_misao__[ma]debito_[EF571347].ogm
+#2825   1x [233M] [a-s]_rurouni_kenshin_-_90_-_feng_shui_surprise_attack!__[ma]debito_[0998A662].ogm
+#2826   1x [231M] [a-s]_rurouni_kenshin_-_91_-_the_magic_of_feng_shui__[ma]debito_[F01569A3].ogm
+#2827   1x [227M] [a-s]_rurouni_kenshin_-_92_-_tokyo_under_martial_law!__[ma]debito_[654402C8].ogm
+#2828   1x [223M] [a-s]_rurouni_kenshin_-_93_-_the_enemy_awaits_in_senjo_gahara__[ma]debito_[70FA1B03].ogm
+#2829   1x [233M] [a-s]_rurouni_kenshin_-_94_-_the_elegy_of_wind_and_water__[ma]debito_[DACD66D4].ogm
+#2830   1x [223M] [a-s]_rurouni_kenshin_-_95_-_end_of_wanderings__[ma]debito_[12951C2D].ogm

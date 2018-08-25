@@ -1,0 +1,12 @@
+type:
+cd /opt/sqldeveloper/
+and then:
+./sqldeveloper.sh
+
+--change default sqlplus editor
+go to this location:
+/u01/app/oracle/product/11.2.0/xe/sqlplus/admin
+then edit the file:
+glogin.sql
+and type at the end:
+DEFINE_EDITOR = 'nano'
